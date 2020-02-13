@@ -1,0 +1,8 @@
+[package]
+name = "i3switcher"
+version = "0.1.0"
+authors = ["galvares <galvares@afu.blue>"]
+
+[dependencies]
+i3ipc = "0.8.2"
+regex = "0.2"
